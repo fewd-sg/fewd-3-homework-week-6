@@ -1,4 +1,4 @@
-#FEWD Week #4 Project: JavaScript Basics
+#FEWD Week #6 Project
 
 ---
 

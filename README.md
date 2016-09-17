@@ -1,4 +1,4 @@
-# FEWD Week #6: JavaScript Basics
+# FEWD Week #6
 
 ### Description
 
