@@ -132,8 +132,10 @@ h2 a {
   font-size: 24px;
   line-height: 1.333;
   color: #606161;
+
 }
-.post p:first-of-type:first-letter {
+
+.post p:first-of-type:first-letter{
   float: left;
   font-size: 80px;
   line-height: 65px;
@@ -142,6 +144,7 @@ h2 a {
   padding-left: 3px;
   font-weight: 600;
 }
+
 .readmore, .readless {
   text-align: right;
   margin-top: 30px;
@@ -220,14 +223,18 @@ footer p {
   color: #fff;
   font-weight: 600;
 }
-.hide {
+.full {
+  display: none;
+}
+
+.readless{
+  display: none;
+}
+
+.hideside{
   display: none;
 }
 
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
-
-
-
-
