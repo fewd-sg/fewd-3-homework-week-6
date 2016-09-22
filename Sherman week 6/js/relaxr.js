@@ -1,13 +1,11 @@
 $(".readmore").click(function () {
-  $('.full').slideDown()
-  $('.hide').hide()
+  $('.hide').slideDown()
   $('.readmore').hide()
   $('.readless').show()
 })
 
 $(".readless").click(function () {
-  $('.full').slideUp()
-  $('.hide').show()
+  $('.hide').slideUp()
   $('.readmore').show()
   $('.readless').hide()
 })
